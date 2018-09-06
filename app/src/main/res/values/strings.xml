@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TipoSangre</string>
+    <array name="generos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </array>
+    <array name="sangritas">
+        <item>O-</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+    </array>
+</resources>
+
